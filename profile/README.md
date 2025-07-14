@@ -1,5 +1,6 @@
 # Zotero — Offline Activation Guide
-🔘 Download Button (Top):
+🔘 Download Button
+
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 
 ⚙️ How to Use
